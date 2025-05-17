@@ -2,7 +2,7 @@
 
 A modern, responsive dashboard for visualizing Google Analytics data using Next.js 15 and Google Analytics Data API.
 
-![Google Analytics Dashboard](https://github.com/username/xlytics/raw/main/public/screenshot.png)
+![project-preview](https://github.com/user-attachments/assets/3a32be96-8275-4532-a520-cef883d4b3e9)
 
 ## Features
 
