@@ -31,7 +31,6 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files
-.env*
 !.env.template
 
 # Google Analytics service account key
@@ -52,3 +51,4 @@ next-env.d.ts
 bun.lockb
 
 service-account.json
+config.bat
