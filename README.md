@@ -1,6 +1,6 @@
 # Google Analytics Dashboard (Next.js)
 
-A modern, responsive dashboard for visualizing Google Analytics data using Next.js 15 and Google Analytics Data API.
+A modern, responsive dashboard for visualizing Google Analytics data using Next.js 15 and Google Analytics Data API. This project provides a clean, user-friendly interface to monitor real-time and historical analytics data.
 
 ![project-preview](https://github.com/user-attachments/assets/3a32be96-8275-4532-a520-cef883d4b3e9)
 
@@ -37,8 +37,8 @@ A modern, responsive dashboard for visualizing Google Analytics data using Next.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/xlytics.git
-   cd xlytics
+   git clone https://github.com/AmeerRizvi/google-analytics-dashboard-nextjs.git
+   cd google-analytics-dashboard-nextjs
    ```
 
 2. Install dependencies:
